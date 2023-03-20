@@ -1,2 +1,2 @@
 # Bus-Management-System
-These is the College Bus Management Website where student see their bus card and bus related details through online mode.
+Here is the College Bus Management Website where students can see their bus-card detail and bus-related details on the website.
